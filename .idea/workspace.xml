@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84631e49-3d5e-48da-a6a7-31b794e19cb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VAUjfxqKq4FO0PUNtf8u7I2SUG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="4" Folder0="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil.dic" CustomDictionary1="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$USER_HOME$/Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84631e49-3d5e-48da-a6a7-31b794e19cb0" name="Default Changelist" comment="" />
+      <created>1576695529357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576695529357</updated>
+      <workItem from="1576695530490" duration="724000" />
+      <workItem from="1576696266997" duration="3456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1573" y="295" key="EditFileWatcherDialog" timestamp="1576695761810">
+      <screen x="0" y="23" width="2560" height="1007" />
+    </state>
+    <state x="1573" y="295" key="EditFileWatcherDialog/0.23.2560.1007@0.23.2560.1007" timestamp="1576695761810" />
+    <state x="1416" y="163" key="SettingsEditor" timestamp="1576696255419">
+      <screen x="0" y="23" width="2560" height="1007" />
+    </state>
+    <state x="1416" y="163" key="SettingsEditor/0.23.2560.1007@0.23.2560.1007" timestamp="1576696255419" />
+  </component>
+</project>
